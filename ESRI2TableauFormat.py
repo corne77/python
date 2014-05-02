@@ -4,8 +4,8 @@ import sys
 
 #def convertESRI2TableauFormat( p_inputfile, p_outputfile):
 
-l_outfileName = 'c:/ESRI_suburb_tab_format.csv'  # make changes here..
-l_ESRIFileName ='c:/ESRI_suburb.csv'             # make changes here..
+l_outfileName = 'c:/ESRI_tableau_tab_format.csv'  # make changes here..
+l_ESRIFileName ='c:/WIJKEN.csv'             # make changes here..
 
 rdx=0
 csv.field_size_limit(sys.maxsize)
